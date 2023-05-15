@@ -2,6 +2,8 @@
 
 `[INSIRA DESCRICAO DO PROJETO AQUI]`
 
+classe 
+
 # Pré Requisitos
 
 Para que seja possível rodar essa aplicação é necessário atender alguns requisitos básicos.
